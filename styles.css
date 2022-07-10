@@ -1,0 +1,38 @@
+body {background-color: black; 
+    font-family: Roboto, sans-serif;
+}
+.Post {
+    width: 400px;
+    height: 550px;
+    background-color: white;
+    margin: 0px auto;
+}
+.header {
+    height: 50px;
+    display: inline-flex;
+    padding-bottom: 5px;
+}
+#Icon1 {
+    margin: auto 5px;
+}
+#name {
+    width: 100px;
+    font-size: smaller;
+}
+#Icon2 {
+    width: 255px;
+    margin: auto;
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+.body {
+    padding: 10px;
+}
+#likes {
+    font-size: smaller;
+}
+#caption {
+    font-size: smaller;
+}
